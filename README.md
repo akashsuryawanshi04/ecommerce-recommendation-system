@@ -417,6 +417,6 @@ Built as a portfolio demonstration of production-grade machine learning engineer
 
 **If this project helped you, please give it a star.**
 
-[![Star this repo](https://img.shields.io/github/stars/username/ecommerce-recommendation-system?style=social)](https://github.com/username/ecommerce-recommendation-system)
+[![Star this repo](https://img.shields.io/github/stars/username/ecommerce-recommendation-system?style=social)](https://github.com/akashsuryawanshi04/ecommerce-recommendation-system)
 
 </div>
