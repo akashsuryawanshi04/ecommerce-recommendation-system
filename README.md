@@ -206,7 +206,7 @@ Matrix density    : 52.9%
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/<username>/ecommerce-recommendation-system.git
+git clone https://github.com/akashsuryawanshi04/ecommerce-recommendation-system.git
 cd ecommerce-recommendation-system
 
 # 2. Create and activate a virtual environment
