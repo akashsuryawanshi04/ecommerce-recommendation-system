@@ -415,7 +415,7 @@ Distributed under the MIT License. See [LICENSE](LICENSE) for details.
 
 Built as a portfolio demonstration of production-grade machine learning engineering.
 
-**If this project helped you, please give it a star.**
+**If this project helped you, please give it a star ⭐ .**
 
 [![Star this repo](https://img.shields.io/github/stars/username/ecommerce-recommendation-system?style=social)](https://github.com/akashsuryawanshi04/ecommerce-recommendation-system)
 
