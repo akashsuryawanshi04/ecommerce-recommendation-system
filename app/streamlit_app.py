@@ -1,18 +1,5 @@
 """
-app/streamlit_app.py
----------------------
-Streamlit UI for the E-Commerce Recommendation System.
 
-Features
---------
-• Product page with "You may also like" recommendations
-• "Customers also bought" section powered by association rules
-• Personalised user recommendations
-• User purchase history view
-• Model evaluation dashboard
-
-Run with:
-    streamlit run app/streamlit_app.py
 """
 
 import os
